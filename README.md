@@ -1,9 +1,5 @@
 # Hospital Management System (HMS)
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Flask](https://img.shields.io/badge/flask-2.0+-green.svg)
-
 A web-based Hospital Management System built with Flask, MySQL, and Bootstrap, designed to streamline hospital operations including patient management, appointments, prescriptions, lab tests, and billing.
 
 ## Table of Contents
